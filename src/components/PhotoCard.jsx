@@ -1,5 +1,6 @@
 import { Button, Card } from "@heroui/react";
 import Image from "next/image";
+import Link from "next/link";
 
 
 const PhotoCard = ({ photo }) => {
@@ -19,9 +20,9 @@ const PhotoCard = ({ photo }) => {
         ⭐ Rating: {photo.rating}
       </p>
 
-      <Button color="primary" variant="flat">
+        <Link href={`/all-courses/${photo.id}`}><Button color="primary" variant="flat">
         View Details
-      </Button>
+      </Button></Link>
 
     </Card>
     );
