@@ -10,7 +10,7 @@ const TopCourses = async() => {
 
     return (
         <div>
-            <h1 className="text-2xl font-bold mt-5">Top-3 highest-rated Courses</h1>
+            <h1 className="text-2xl font-bold mt-5 mb-5">Top-3 highest-rated Courses</h1>
             <div className="grid grid-cols-3 gap-3">
                 {topPhotos.map(photo => <PhotoCard key={photo.id} photo={photo}/>)}
             </div>

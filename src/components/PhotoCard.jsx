@@ -3,7 +3,7 @@ import Image from "next/image";
 
 
 const PhotoCard = ({ photo }) => {
-    console.log(photo)
+
     return (
     <Card className="border p-4 space-y-3 shadow-md rounded-xl">
       
