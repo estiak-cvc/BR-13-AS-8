@@ -1,0 +1,33 @@
+[
+  
+  {
+    "id": 1,
+    "name": "John Doe",
+    "rating": "4.8"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "rating": "4.7"
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "rating": "4.6"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "rating": "4.9"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Lee",
+    "rating": "4.5"
+  },
+  {
+    "id": 6,
+    "name": "David Wilson",
+    "rating": "4.8"
+  }
+]
