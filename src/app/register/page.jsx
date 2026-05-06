@@ -42,7 +42,7 @@ export default function SignUpPage() {
 
     return (
         <Card className="border mx-auto w-125 py-10 mt-5">
-            <h1 className="text-center text-2xl font-bold">Register YOur Account</h1>
+            <h1 className="text-center text-2xl font-bold">Register Yur Account</h1>
 
             <Form className="flex w-96 mx-auto flex-col gap-4" onSubmit={onSubmit}>
                 <TextField isRequired name="name" type="text">
