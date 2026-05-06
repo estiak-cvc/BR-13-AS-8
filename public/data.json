@@ -7,7 +7,6 @@
     "rating": 4.8,
     "level": "Beginner",
     "description": "Learn full-stack web development from scratch.",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     "category": "Development"
   },
   {
@@ -18,7 +17,6 @@
     "rating": 4.7,
     "level": "Intermediate",
     "description": "Deep dive into modern JavaScript concepts and patterns.",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
     "category": "Development"
   },
   {
@@ -29,7 +27,6 @@
     "rating": 4.6,
     "level": "Beginner",
     "description": "Learn the basics of user interface and user experience design.",
-    "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698",
     "category": "Design"
   },
   {
@@ -40,7 +37,6 @@
     "rating": 4.2,
     "level": "Intermediate",
     "description": "Analyze data and build models using Python.",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
     "category": "Data Science"
   },
   {
@@ -51,7 +47,6 @@
     "rating": 4.5,
     "level": "Beginner",
     "description": "Master SEO, social media, and online marketing strategies.",
-    "image": "https://images.unsplash.com/photo-1533750349088-cd871a92f312",
     "category": "Marketing"
   },
   {
@@ -62,7 +57,6 @@
     "rating": 4.1,
     "level": "Intermediate",
     "description": "Build modern web apps using React and Next.js.",
-    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
     "category": "Development"
   }
 ]
