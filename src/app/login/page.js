@@ -24,6 +24,7 @@ export default function SignInPage() {
         
             email,
             password,
+            callbackURL: '/'
             
         })
         console.log({data, error})
